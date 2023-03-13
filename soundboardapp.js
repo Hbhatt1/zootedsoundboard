@@ -13,7 +13,8 @@ const sounds = [
     "BUBUBUBUBU",
     "LWIJSYSC",
     "AREYOUZOOTED",
-    "AREYOUAGOBLIN"
+    "AREYOUAGOBLIN",
+    "GHBOI"
 ];
 
 sounds.forEach((sound) => {
